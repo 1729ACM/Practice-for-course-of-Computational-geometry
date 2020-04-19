@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mingshi/Desktop/ComputionalGeometery/Week2/2.2/main.cpp
+iostream
+-
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+algorithm
+-
+math.h
+-
+vector
+-
+string
+-
+
